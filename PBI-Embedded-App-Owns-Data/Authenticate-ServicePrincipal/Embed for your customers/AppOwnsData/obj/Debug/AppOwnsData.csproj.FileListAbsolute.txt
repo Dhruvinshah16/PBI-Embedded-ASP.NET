@@ -1,0 +1,148 @@
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\AppOwnsData.dll.config
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\AppOwnsData.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\AppOwnsData.pdb
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\csc.exe
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\csc.exe.config
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\csc.rsp
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\csi.exe
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\csi.exe.config
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\csi.rsp
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.Managed.Core.targets
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Buffers.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Collections.Immutable.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Memory.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Numerics.Vectors.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Reflection.Metadata.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\vbc.exe
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\vbc.exe.config
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\vbc.rsp
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\VBCSCompiler.exe
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\VBCSCompiler.exe.config
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Antlr3.Runtime.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\EntityFramework.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\EntityFramework.SqlServer.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.Core.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.Identity.Client.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.PowerBI.Api.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.Rest.ClientRuntime.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.Web.Infrastructure.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Security.Cryptography.Cng.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Helpers.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Mvc.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Optimization.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Razor.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Deployment.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Razor.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\WebGrease.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Antlr3.Runtime.pdb
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\EntityFramework.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\EntityFramework.SqlServer.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.Core.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.Identity.Client.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Security.Cryptography.Cng.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Helpers.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Mvc.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Optimization.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Razor.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Deployment.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Razor.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.csprojAssemblyReference.cache
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.csproj.CoreCompileInputs.cache
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.csproj.CopyComplete
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.pdb
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\AppOwnsData.dll.config
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\AppOwnsData.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\AppOwnsData.pdb
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\csc.exe
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\csc.exe.config
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\csc.rsp
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\csi.exe
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\csi.exe.config
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\csi.rsp
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Buffers.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Memory.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Numerics.Vectors.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\vbc.exe
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\vbc.exe.config
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\vbc.rsp
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\VBCSCompiler.exe
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Antlr3.Runtime.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\EntityFramework.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\EntityFramework.SqlServer.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.Identity.Client.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.PowerBI.Api.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Security.Cryptography.Cng.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Helpers.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Mvc.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Optimization.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Razor.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Deployment.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Razor.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\WebGrease.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Antlr3.Runtime.pdb
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\EntityFramework.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\EntityFramework.SqlServer.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.Identity.Client.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Security.Cryptography.Cng.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Helpers.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Mvc.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Optimization.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Razor.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Deployment.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Razor.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.csprojAssemblyReference.cache
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.csproj.CoreCompileInputs.cache
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.csproj.CopyComplete
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.pdb
